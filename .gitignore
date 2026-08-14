@@ -1,1 +1,4 @@
 build/
+
+# Cursor editor state, per-machine
+.cursor/
